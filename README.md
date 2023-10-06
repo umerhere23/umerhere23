@@ -1,5 +1,10 @@
 ### Hi there 👋
+## Table of Contents
 
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 <!--
 **umerhere23/umerhere23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
