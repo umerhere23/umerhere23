@@ -22,13 +22,10 @@
 
 <hr>
  
- <h3 align="center">My Skills</h3>
+ <h3 align="center">My Skills :</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,react,nodejs,mongo,bootstrap,tailwind,python,mysql,cpp,java,c,cs,figma,git,github)](https://skillicons.dev)
-<hr>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,react,nodejs,mongo,bootstrap,tailwind,python,mysql,cpp,java,c,cs,figma,git,github,vscode,eclipse,netbeans)](https://skillicons.dev)
 
- <h3 align="center">IDEs:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,react,nodejs,mongo,bootstrap,tailwind,python,mysql,cpp,java,c,cs,figma,git,github)](https://skillicons.dev)
  <hr>
  <h3 align="center">Github Streaks</h3>
 
