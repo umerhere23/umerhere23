@@ -20,14 +20,14 @@
 
 
 <div id="languages" align="center">
-  <img src="html-icon.png" alt="HTML" title="HTML" width="50" height="50" />
-  <img src="css-icon.png" alt="CSS" title="CSS" width="50" height="50" />
-  <img src="php-icon.png" alt="PHP" title="PHP" width="50" height="50" />
-  <img src="js-icon.png" alt="JavaScript" title="JavaScript" width="50" height="50" />
-  <img src="react-icon.png" alt="React" title="React" width="50" height="50" />
-  <img src="node-icon.png" alt="Node.js" title="Node.js" width="50" height="50" />
-  <img src="mongo-icon.png" alt="MongoDB" title="MongoDB" width="50" height="50" />
-  <img src="express-icon.png" alt="Express.js" title="Express.js" width="50" height="50" />
-  <img src="java-icon.png" alt="Java" title="Java" width="50" height="50" />
+  <img src="https://example.com/html-icon.png" alt="HTML" title="HTML" width="50" height="50" />
+  <img src="https://example.com/css-icon.png" alt="CSS" title="CSS" width="50" height="50" />
+  <img src="https://example.com/php-icon.png" alt="PHP" title="PHP" width="50" height="50" />
+  <img src="https://example.com/js-icon.png" alt="JavaScript" title="JavaScript" width="50" height="50" />
+  <img src="https://example.com/react-icon.png" alt="React" title="React" width="50" height="50" />
+  <img src="https://example.com/node-icon.png" alt="Node.js" title="Node.js" width="50" height="50" />
+  <img src="https://example.com/mongo-icon.png" alt="MongoDB" title="MongoDB" width="50" height="50" />
+  <img src="https://example.com/express-icon.png" alt="Express.js" title="Express.js" width="50" height="50" />
+  <img src="https://example.com/java-icon.png" alt="Java" title="Java" width="50" height="50" />
 </div>
 
