@@ -37,4 +37,4 @@
 ![Umer's GitHub stats](https://github-readme-stats.vercel.app/api?username=umerhere23&show_icons=true&theme=radical)
 <hr> <h3 align="center">Top Langs :</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umerhere23&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umerhere23&hide_progress=flase)
