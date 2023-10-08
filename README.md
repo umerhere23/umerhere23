@@ -30,6 +30,11 @@
  <h3 align="center">Github Streaks</h3>
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umerhere23)](https://git.io/streak-stats)
-
+ 
+<hr>
+ <h3 align="center"> GitHub stats</h3>
 
 ![Umer's GitHub stats](https://github-readme-stats.vercel.app/api?username=umerhere23&show_icons=true&theme=radical)
+<hr> <h3 align="center">Top Langs :</h3>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umerhere23&hide_progress=true)
