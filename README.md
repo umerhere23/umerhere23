@@ -6,7 +6,7 @@
 
 <div id="badges" align="center">
  
- <h3 align="left">Connect with me:</h3>
+ <h3 align="center">Connect with me:</h3>
 
   <a href="https://www.fiverr.com/omerjh">
     <img src="https://img.shields.io/badge/Fiverr-green?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Badge" />
