@@ -18,17 +18,16 @@
   </a>
 </div>
 
-<!--
-**umerhere23/umerhere23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div id="languages" align="center">
+  <img src="html-icon.png" alt="HTML" title="HTML" width="50" height="50" />
+  <img src="css-icon.png" alt="CSS" title="CSS" width="50" height="50" />
+  <img src="php-icon.png" alt="PHP" title="PHP" width="50" height="50" />
+  <img src="js-icon.png" alt="JavaScript" title="JavaScript" width="50" height="50" />
+  <img src="react-icon.png" alt="React" title="React" width="50" height="50" />
+  <img src="node-icon.png" alt="Node.js" title="Node.js" width="50" height="50" />
+  <img src="mongo-icon.png" alt="MongoDB" title="MongoDB" width="50" height="50" />
+  <img src="express-icon.png" alt="Express.js" title="Express.js" width="50" height="50" />
+  <img src="java-icon.png" alt="Java" title="Java" width="50" height="50" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
