@@ -24,7 +24,7 @@
   <img src="https://example.com/css-icon.png" alt="CSS" title="CSS" width="50" height="50" />
   <img src="https://example.com/php-icon.png" alt="PHP" title="PHP" width="50" height="50" />
   <img src="https://example.com/js-icon.png" alt="JavaScript" title="JavaScript" width="50" height="50" />
-  <img src="https://example.com/react-icon.png" alt="React" title="React" width="50" height="50" />
+  <img src="[https://example.com/react-icon.png](https://icons8.com/icon/bzf0DqjXFHIW/react)" alt="React" title="React" width="50" height="50" />
   <img src="https://example.com/node-icon.png" alt="Node.js" title="Node.js" width="50" height="50" />
   <img src="https://example.com/mongo-icon.png" alt="MongoDB" title="MongoDB" width="50" height="50" />
   <img src="https://example.com/express-icon.png" alt="Express.js" title="Express.js" width="50" height="50" />
