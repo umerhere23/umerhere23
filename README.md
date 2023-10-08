@@ -23,4 +23,4 @@
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umerhere23)](https://git.io/streak-stats)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,php,react,node,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,php,react,mongo,python,mysql,bootstrap,tailwind)](https://skillicons.dev)
