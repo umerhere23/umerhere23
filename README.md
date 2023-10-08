@@ -25,5 +25,7 @@
  <h3 align="center">My Skills</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,php,react,nodejs,mongo,bootstrap,tailwind,python,mysql,cpp,figma)](https://skillicons.dev)
+<hr>
+ <h3 align="center">Github Streaks</h3>
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umerhere23)](https://git.io/streak-stats)
