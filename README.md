@@ -30,3 +30,6 @@
  <h3 align="center">Github Streaks</h3>
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umerhere23)](https://git.io/streak-stats)
+
+
+![Umer's GitHub stats](https://github-readme-stats.vercel.app/api?username=umerhere23&show_icons=true&theme=radical)
