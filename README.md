@@ -19,7 +19,7 @@ Currenlty working With Multisyn Tech
     <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge" />
   </a>
 </div>
-
+<div align="center">
 
 <hr>
 
@@ -39,4 +39,4 @@ Currenlty working With Multisyn Tech
 <hr> <h3 align="center">Top Langs :</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umerhere23&hide_progress=flase)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=umerhere23.visitor-badge)
+</div>
