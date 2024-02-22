@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## Muhammad Umer Muhktiar Here MERN Stack Developer 
-Currenlty working With Reveltek
+Currenlty working With Multisyn Tech
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -22,7 +22,8 @@ Currenlty working With Reveltek
 
 
 <hr>
- 
+ ![Visitor Count](https://profile-counter.glitch.me/{umerhere23}/count.svg)
+
  <h3 align="center">My Skills :</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,react,nodejs,mongo,bootstrap,tailwind,python,mysql,cpp,java,c,cs,figma,git,github,vscode,eclipse,netbeans)](https://skillicons.dev)
