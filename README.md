@@ -40,6 +40,8 @@ Currenlty working With Multisyn Tech
 <hr> <h3 align="center">Top Langs :</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umerhere23&hide_progress=flase)
+<br>
+
 ![Visitor Count](https://profile-counter.glitch.me/{umerhere23}/count.svg)
 
 </div>
