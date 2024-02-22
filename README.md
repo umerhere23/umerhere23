@@ -1,7 +1,8 @@
 ### Hi there 👋
 ## Muhammad Umer Muhktiar Here Full Stack Developer 
 Currenlty working With Multisyn Tech
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=umerhere23.visitor-badge)
+[![Visitor Count](https://profile-counter.glitch.me/{umerhere23}/count.svg)]
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
