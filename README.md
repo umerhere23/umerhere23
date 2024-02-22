@@ -1,7 +1,6 @@
 ### Hi there 👋
 ## Muhammad Umer Muhktiar Here Full Stack Developer 
 Currenlty working With Multisyn Tech
-[![Visitor Count](https://profile-counter.glitch.me/{umerhere23}/count.svg)]
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -41,4 +40,6 @@ Currenlty working With Multisyn Tech
 <hr> <h3 align="center">Top Langs :</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umerhere23&hide_progress=flase)
+![Visitor Count](https://profile-counter.glitch.me/{umerhere23}/count.svg)
+
 </div>
