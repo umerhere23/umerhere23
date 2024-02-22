@@ -22,7 +22,6 @@ Currenlty working With Multisyn Tech
 
 
 <hr>
- ![Visitor Count](https://profile-counter.glitch.me/{umerhere23}/count.svg)
 
  <h3 align="center">My Skills :</h3>
 
@@ -40,3 +39,4 @@ Currenlty working With Multisyn Tech
 <hr> <h3 align="center">Top Langs :</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umerhere23&hide_progress=flase)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=umerhere23.visitor-badge)
