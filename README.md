@@ -31,8 +31,8 @@ Currenlty working With Multisyn Tech
  <hr>
  <h3 align="center">Github Streaks</h3>
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umerhere23)](https://git.io/streak-stats)
- 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umerhere23&theme=dark)](https://git.io/streak-stats)
+
 <hr>
  <h3 align="center"> GitHub stats</h3>
 
