@@ -26,7 +26,7 @@ Currenlty working With ZBee Tech
 
  <h3 align="center">My Skills :</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,php,react,nodejs,mongo,bootstrap,tailwind,python,mysql,cpp,java,c,cs,figma,git,github,vscode,eclipse,angular,express,django,flask,oracle)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap,tailwind,firebase,nodejs,express,django,flask,php,mysql,sqlite,mongo,cpp,java,c,python,git,github,gitlab,vscode,eclipse,androidstudio,anaconda,npm,postman,redux,vite)](https://skillicons.dev)
 
  <hr>
  <h3 align="center">Github Streaks</h3>
