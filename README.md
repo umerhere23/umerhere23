@@ -1,5 +1,5 @@
 ### Hi there 👋
-## Muhammad Umer Muhktiar Here Full Stack Engineer 
+## M Umer Muhktiar Khan Tanoli Here Full Stack Engineer 
 ### 💻 **Currently working with**  
 🎉 **ZBee Tech**  
 🚀 *Position*: **Software Engineer**  
