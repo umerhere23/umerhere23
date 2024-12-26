@@ -1,6 +1,8 @@
 ### Hi there 👋
-## Muhammad Umer Muhktiar Here Full Stack Developer 
-Currenlty working With ZBee Tech
+## Muhammad Umer Muhktiar Here Full Stack Engineer 
+### 💻 **Currently working with**  
+🎉 **ZBee Tech**  
+🚀 *Position*: **Software Engineer**  
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
