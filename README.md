@@ -12,7 +12,7 @@
  
  <h3 align="center">Connect with me:</h3>
 
-  <a href="https://www.fiverr.com/mumermukhtiar">
+  <a href="https://www.fiverr.com/umerhere23">
     <img src="https://img.shields.io/badge/Fiverr-green?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Badge" />
   </a>
    <a href="https://www.linkedin.com/in/muhammad-umer-mukhtiar-52705b1ba">
