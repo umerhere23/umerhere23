@@ -24,26 +24,8 @@
 </div>
 <div align="center">
 
-<hr>
 
- <h3 align="center">My Skills :</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap,tailwind,firebase,nodejs,express,django,flask,php,mysql,sqlite,mongo,cpp,java,c,python,git,github,gitlab,vscode,eclipse,androidstudio,anaconda,npm,postman,redux,vite)](https://skillicons.dev)
 
- <hr>
- <h3 align="center">Github Streaks</h3>
-
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umerhere23&theme=dark)](https://git.io/streak-stats)
-
-<hr>
- <h3 align="center"> GitHub stats</h3>
-
-![Umer's GitHub stats](https://github-readme-stats.vercel.app/api?username=umerhere23&show_icons=true&theme=radical)
-<hr> <h3 align="center">Top Langs :</h3>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umerhere23&hide_progress=flase)
-<br>
-
-![Visitor Count](https://profile-counter.glitch.me/{umerhere23}/count.svg)
 
 </div>
