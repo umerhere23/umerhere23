@@ -1,12 +1,6 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-
   <h1>Hi there 👋 I'm M Umer Mukhtiar Tanoli</h1>
   <h3>🚀 Full Stack Engineer · Software Engineer · Data Science</h3>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+%7C+Next.js+%7C+Laravel+%7C+Python;AI+%26+Data-Driven+Applications;Open+to+freelance+projects" alt="Typing SVG" />
-  </a>
 </div>
 
 ---
@@ -16,7 +10,6 @@
   <a href="https://www.fiverr.com/umerhere23"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
   <a href="https://www.linkedin.com/in/muhammad-umer-mukhtiar-52705b1ba"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://api.whatsapp.com/send?phone=+923479798518"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="https://github.com/umerhere23"><img src="https://komarev.com/ghpvc/?username=umerhere23&style=for-the-badge&color=blue" alt="Profile views" /></a>
 </div>
 
 ---
@@ -91,27 +84,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- Total commits (all years, incl. private if enabled) -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=umerhere23&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umerhere23&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<!-- Total contributions + streak -->
-<img src="https://streak-stats.demolab.com?user=umerhere23&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<!-- Total commits trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=umerhere23&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
-
-<!-- Activity graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=umerhere23&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-
-</div>
 
 ---
 
